@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 1 problems · 0 labs · 0 math
+**7** solved · 7 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,7 +12,13 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-04-09 | [solution](problems/0114-implement-global-average-pooling) |
+| [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-04-09 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-07 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-04-09 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2025-04-09 | [solution](problems/0024-single-neuron) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-04-09 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-04-09 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 
 ---
 

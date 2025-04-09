@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:57:27.202Z",
+  "generated_at": "2026-11-09T18:57:29.253Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -13,6 +13,84 @@
       "last_pushed_at": "2025-04-07T19:01:17.252Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2025-04-09T14:15:40.547Z",
+      "last_pushed_at": "2025-04-09T14:15:40.547Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2025-04-09T14:41:52.314Z",
+      "last_pushed_at": "2025-04-09T14:41:52.314Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2025-04-09T14:43:24.794Z",
+      "last_pushed_at": "2025-04-09T14:43:24.794Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2025-04-09T15:35:30.056Z",
+      "last_pushed_at": "2025-04-09T15:35:30.056Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:114": {
+      "kind": "problem",
+      "id": "114",
+      "title": "Implement Global Average Pooling",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/114",
+      "path": "problems/0114-implement-global-average-pooling",
+      "first_solved_at": "2025-04-09T15:51:55.357Z",
+      "last_pushed_at": "2025-04-09T15:51:55.357Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:115": {
+      "kind": "problem",
+      "id": "115",
+      "title": "Implement Batch Normalization for BCHW Input",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/115",
+      "path": "problems/0115-implement-batch-normalization-for-bchw-input",
+      "first_solved_at": "2025-04-09T16:53:30.551Z",
+      "last_pushed_at": "2025-04-09T16:53:30.551Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
