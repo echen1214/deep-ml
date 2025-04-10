@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:57:29.253Z",
+  "generated_at": "2026-11-09T18:57:31.309Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,45 @@
       "path": "problems/0115-implement-batch-normalization-for-bchw-input",
       "first_solved_at": "2025-04-09T16:53:30.551Z",
       "last_pushed_at": "2025-04-09T16:53:30.551Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2025-04-10T21:03:36.557Z",
+      "last_pushed_at": "2025-04-10T21:03:36.557Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-04-10T21:56:19.558Z",
+      "last_pushed_at": "2025-04-10T21:56:19.558Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:45": {
+      "kind": "problem",
+      "id": "45",
+      "title": "Linear Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/45",
+      "path": "problems/0045-linear-kernel-function",
+      "first_solved_at": "2025-04-10T22:12:04.757Z",
+      "last_pushed_at": "2025-04-10T22:12:04.757Z",
       "language": "python",
       "lines": 6
     }
