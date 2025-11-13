@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,8 +22,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2025-04-09 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2025-04-09 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2025-04-09 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2025-11-13 | [solution](problems/0079-binomial-distribution-probability) |
 | [Implement Batch Normalization for BCHW Input](https://www.deep-ml.com/problems/115) | medium | 2025-04-09 | [solution](problems/0115-implement-batch-normalization-for-bchw-input) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2025-04-14 | [solution](problems/0017-k-means-clustering) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2025-11-13 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2025-04-12 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 
 ---
