@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:57:44.872Z",
+  "generated_at": "2026-11-09T18:57:47.177Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -247,6 +247,32 @@
       "last_pushed_at": "2025-12-02T20:43:46.483Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:107": {
+      "kind": "problem",
+      "id": "107",
+      "title": "Implement Masked Self-Attention",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/107",
+      "path": "problems/0107-implement-masked-self-attention",
+      "first_solved_at": "2025-12-03T16:33:28.241Z",
+      "last_pushed_at": "2025-12-03T16:33:28.241Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:109": {
+      "kind": "problem",
+      "id": "109",
+      "title": "Implement Layer Normalization for Sequence Data",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/109",
+      "path": "problems/0109-implement-layer-normalization-for-sequence-data",
+      "first_solved_at": "2025-12-03T20:35:42.527Z",
+      "last_pushed_at": "2025-12-03T20:35:42.527Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
