@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:57:47.177Z",
+  "generated_at": "2026-11-09T18:57:49.219Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,32 @@
       "last_pushed_at": "2025-12-03T20:35:42.527Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:85": {
+      "kind": "problem",
+      "id": "85",
+      "title": "Positional Encoding Calculator",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/85",
+      "path": "problems/0085-positional-encoding-calculator",
+      "first_solved_at": "2025-12-04T15:49:25.516Z",
+      "last_pushed_at": "2025-12-04T15:49:25.516Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2025-12-04T16:40:27.331Z",
+      "last_pushed_at": "2025-12-04T16:40:27.331Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
