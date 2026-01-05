@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**26** solved · 26 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2025-11-26 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
+| [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-01-05 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-01-05 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement Global Average Pooling](https://www.deep-ml.com/problems/114) | easy | 2025-04-09 | [solution](problems/0114-implement-global-average-pooling) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2025-04-09 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2025-04-10 | [solution](problems/0045-linear-kernel-function) |
